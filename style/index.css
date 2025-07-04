@@ -1,3 +1,9 @@
-div{
+.one {
     background-color: red;
+    margin: 0;
+}
+.two{
+    background-color: green;
+    padding: 5px 10px;
+    text-align: center;
 }
